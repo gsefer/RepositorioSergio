@@ -7,6 +7,7 @@ public class HolaMundo {
 		// aver si funcion
 		//hgsfhgfhgsf
 		//prueba
+		System.out.println("Hola mundo);
 
 	}
 
